@@ -1,2 +1,2 @@
-# spacy-cheat-sheet
-spaCy Cheat Sheet
+# Cheat sheets
+
