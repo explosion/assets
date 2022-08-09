@@ -15,8 +15,8 @@ If you find a mistake or want contribute a resource feel free to submit a [**pul
 
 | Name | Description |
 | --- | --- |
-| 💫 `spaCy` | Everything related to the [spaCy library](https://github.com/explosion/spaCy). |
-| ✨`Prodigy` | Everything related to [Prodigy](https://prodi.gy). |
+| 💫 [spaCy](./spaCy/) | Everything related to the [spaCy library](https://github.com/explosion/spaCy). |
+| ✨[Prodigy](./Prodigy/) | Everything related to [Prodigy](https://prodi.gy). |
 
 ## 🚀 Highlights
 
