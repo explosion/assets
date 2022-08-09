@@ -1,2 +1,28 @@
+# 💥 Explosion assets
+
+This is a growing collection of **educative materials** related to [spaCy](https://spacy.io/), [Prodigy](https://prodi.gy/), [Thinc](https://thiinc.ai) and everything related to [Explosion](https://explosion.ai/).
 
 
+
+|                                     [spaCy: Industrial-Strength Natural Language Processing](https://spacy.io)                                      |                                  [Prodigy: A modern annotation tool powered by active learning](https://prodi.gy)                                   |                                      [Thinc: A refreshing functional take on deep learning](https://thinc.ai)                                       |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://user-images.githubusercontent.com/13643239/144021626-88a2c625-e135-4cf8-8508-a14589923c3a.png" width="300" />](https://spacy.io) | [<img src="https://user-images.githubusercontent.com/13643239/144021668-2d8b4bde-05a1-4757-bb8f-9e34bb0f8f99.png" width="300" />](https://prodi.gy) | [<img src="https://user-images.githubusercontent.com/13643239/144021637-316cbffb-7574-4e87-ac76-97522eb16436.png" width="300" />](https://thinc.ai) |
+
+
+If you find a mistake or want contribute a resource feel free to submit a [**pull request**](https://github.com/explosion/assets/pulls)
+
+## 🗃 Categories
+
+| Name | Description |
+| --- | --- |
+| 💫 `spaCy` | Everything related to the [spaCy library](https://github.com/explosion/spaCy). |
+| ✨`Prodigy` | Everything related to [Prodigy](https://prodi.gy). |
+
+## 🚀 Highlights
+
+Here is some highlighted content from the repo:
+
+| Name | Description |
+| --- | --- |
+| 📄 [spaCy cheat sheet](https://spacy/spacy-cheat-sheet) | All about general spaCy usage, with common features and tips |
+| 🗺️ Prodigy flowchart | A flowchart on the Prodigy workflow |
