@@ -1,6 +1,6 @@
 # 💥 Explosion assets
 
-This is a growing collection of **educative materials** related to [spaCy](https://spacy.io/), [Prodigy](https://prodi.gy/), [Thinc](https://thiinc.ai) and [Explosion](https://explosion.ai/) generally.
+This is a growing collection of content related to [spaCy](https://spacy.io/), [Prodigy](https://prodi.gy/), [Thinc](https://thiinc.ai) and [Explosion](https://explosion.ai/) generally.
 
 
 
