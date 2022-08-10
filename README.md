@@ -1,6 +1,6 @@
 # 💥 Explosion assets
 
-This is a growing collection of **educative materials** related to [spaCy](https://spacy.io/), [Prodigy](https://prodi.gy/), [Thinc](https://thiinc.ai) and everything related to [Explosion](https://explosion.ai/).
+This is a growing collection of **educative materials** related to [spaCy](https://spacy.io/), [Prodigy](https://prodi.gy/), [Thinc](https://thiinc.ai) and [Explosion](https://explosion.ai/) generally.
 
 
 
@@ -9,7 +9,7 @@ This is a growing collection of **educative materials** related to [spaCy](https
 | [<img src="https://user-images.githubusercontent.com/13643239/144021626-88a2c625-e135-4cf8-8508-a14589923c3a.png" width="300" />](https://spacy.io) | [<img src="https://user-images.githubusercontent.com/13643239/144021668-2d8b4bde-05a1-4757-bb8f-9e34bb0f8f99.png" width="300" />](https://prodi.gy) | [<img src="https://user-images.githubusercontent.com/13643239/144021637-316cbffb-7574-4e87-ac76-97522eb16436.png" width="300" />](https://thinc.ai) |
 
 
-If you find a mistake or want contribute a resource feel free to submit a [**pull request**](https://github.com/explosion/assets/pulls)
+If you find a mistake, feel free to submit a [**pull request**](https://github.com/explosion/assets/pulls).
 
 ## 🗃 Categories
 
@@ -22,7 +22,7 @@ If you find a mistake or want contribute a resource feel free to submit a [**pul
 
 Here is some highlighted content from the repo:
 
-| Name | Description |
-| --- | --- |
-| 📄 [spaCy cheat sheet](https://spacy/spacy-cheat-sheet) | All about general spaCy usage, with common features and tips |
-| 🗺️ Prodigy flowchart | A flowchart on the Prodigy workflow |
+| Name | Description | Updated on |
+| --- | --- | --- |
+| 📄 [spaCy cheat sheet](https://spacy/spacy-cheat-sheet) | All about general spaCy usage, with common features and tips | 10/08/22 |
+| 🗺️ Prodigy flowchart | A flowchart on the Prodigy workflow |  |
