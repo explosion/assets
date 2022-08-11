@@ -24,5 +24,5 @@ Here is some highlighted content from the repo:
 
 | Name | Description | Updated on |
 | --- | --- | --- |
-| 📄 [spaCy cheat sheet](https://spacy/spacy-cheat-sheet) | All about general spaCy usage, with common features and tips | 10/08/22 |
+| 📄 [spaCy cheat sheet](https://spacy/spacy-cheat-sheet) | All about general spaCy usage, with common features and tips | August 8, 2022 |
 | 🗺️ Prodigy flowchart | A flowchart on the Prodigy workflow |  |
