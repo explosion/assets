@@ -9,7 +9,7 @@ This is a growing collection of content related to [spaCy](https://spacy.io/), [
 | [<img src="https://user-images.githubusercontent.com/13643239/144021626-88a2c625-e135-4cf8-8508-a14589923c3a.png" width="300" />](https://spacy.io) | [<img src="https://user-images.githubusercontent.com/13643239/144021668-2d8b4bde-05a1-4757-bb8f-9e34bb0f8f99.png" width="300" />](https://prodi.gy) | [<img src="https://user-images.githubusercontent.com/13643239/144021637-316cbffb-7574-4e87-ac76-97522eb16436.png" width="300" />](https://thinc.ai) |
 
 
-If you find a mistake, feel free to submit a [**pull request**](https://github.com/explosion/assets/pulls).
+If you find a mistake, discover a bug, or have an idea about a topic we could take care of, open an [**issue**](https://github.com/explosion/assets/issues).
 
 ## 🗃 Categories
 
