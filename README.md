@@ -25,4 +25,4 @@ Here is some highlighted content from the repo:
 | Name | Description | Updated on |
 | --- | --- | --- |
 | 📄 [spaCy cheat sheet](./spaCy/spaCy-cheat-sheet.pdf) | All about general spaCy usage, with common features and tips | September 13, 2022 |
-| 🗺️ Prodigy flowchart | A flowchart on the Prodigy workflow |  |
+| 🗺️ [NER Prodigy flowchart v2.0.0](./Prodigy/Prodigy_NER_flowchart_v2_0_0.pdf) | A flowchart for annotating and training Named Entity Recognition models with https://prodi.gy ✨ | September 19, 2022 |
