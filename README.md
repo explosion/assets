@@ -18,11 +18,12 @@ If you find a mistake, discover a bug, or have an idea about a topic we could ta
 | 💫 [spaCy](./spaCy/) | Everything related to the [spaCy library](https://github.com/explosion/spaCy). |
 | ✨[Prodigy](./Prodigy/) | Everything related to [Prodigy](https://prodi.gy). |
 
-## 🚀 Highlights
+## 🚀 Highlights
 
 Here is some highlighted content from the repo:
 
 | Name | Description | Updated on |
 | --- | --- | --- |
 | 📄 [spaCy cheat sheet](./spaCy/spaCy-cheat-sheet.pdf) | All about general spaCy usage, with common features and tips | September 13, 2022 |
-| 🗺️ [NER Prodigy flowchart v2.0.0](./Prodigy/Prodigy_NER_flowchart_v2_0_0.pdf) | A flowchart for annotating and training Named Entity Recognition models with https://prodi.gy ✨ | September 19, 2022 |
+| 🗺️ [NER Prodigy flowchart (light theme)](./Prodigy/Prodigy_NER_flowchart_v2_0_0_light.pdf) | A flowchart for annotating and training Named Entity Recognition models with https://prodi.gy ✨ | October 06, 2022 |
+| 🗺️ [NER Prodigy flowchart (dark theme)](./Prodigy/Prodigy_NER_flowchart_v2_0_0_dark.pdf) | Equally awesome Named Entity Recognition flowchart but in dark mode! ✨ | October 06, 2022 |
